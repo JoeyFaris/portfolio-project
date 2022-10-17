@@ -12,7 +12,7 @@ const Home = () => {
                    Full Stack Developer
                </h2>
                <p className='text-gray-500 py-4 '>
-                   Early career software engineer with 3+ years of professional experience in real estate anc sales. Looking to utilize a broad background of analytical, technical, and creative skills to thrive as a software engineer. Passionate about personal and team growth, excellent communicator, quick learner and extremely coachable.
+                   Early career software engineer with 3+ years of professional experience in real estate and sales. Looking to utilize a broad background of analytical, technical, and creative skills to thrive as a software engineer. Passionate about personal and team growth, excellent communicator, quick learner and extremely coachable.
                </p>
                <div>
                    <Link
