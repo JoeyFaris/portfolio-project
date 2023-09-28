@@ -15,7 +15,7 @@ const Experience = () => {
         {
             id:1,
             src: javascript,
-            title:'HTML',
+            title:'Javascript',
             style: 'shadow-yellow-500'
         },
         {
