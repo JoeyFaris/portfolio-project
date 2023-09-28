@@ -27,13 +27,13 @@ const SocialLinks = () => {
         
     },
     {
-        id: 3, 
+        id: 3,
         child: (
             <>
         Mail <AiOutlineMail size={30}/>
             </>
         ),
-        href:"mailto:joeyfaris1@yahoo.com"
+        href:"mailto:joeyfaris12@gmail.com"
     },
     {
         id: 4, 

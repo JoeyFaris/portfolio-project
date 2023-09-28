@@ -50,7 +50,6 @@ const Portfolio = () => {
                 blog: true,
                 href:"https://medium.com/@joeyfaris1/active-record-migrations-1ffe85f65763"
             },
-           
         ]
   return (
     <div name='portfolio' 
