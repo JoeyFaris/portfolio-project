@@ -10,7 +10,7 @@ const About = () => {
             <p className='text-xl'>
             I graduated from Cal Poly San Luis Obispo in 2019, then transitioned from Real Estate and Sales to software engineering. After completing Flatiron School's full-stack software engineering boot camp, I joined Pycube, Inc. as a software engineer intern and quickly secured a full-time position.</p>
                 <p className='text-xl mt-10'>
-I have proficiency in various languages and technologies, including JavaScript, React, Node.js, Bootstrap, CSS (Tailwind, Material UI, & Bootstrap), Ruby on Rails, Sinatra, Active Record, and PostgreSQL.
+I have proficiency in various languages and technologies, including: JavaScript, React, Redux, Toolkit, Node, Bootstrap, CSS (Tailwind, Material UI, & Bootstrap), Ruby, SQL, PostgreSQL Sinatra, REST APIs, Unit Teesting, Docker, JIRA, Figma, AWS (EC2, S3, Lambda), and pgAdmin.
                 </p>
                 <br />
 
