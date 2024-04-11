@@ -3,12 +3,12 @@ import React from 'react'
 import javascript from "../assets/javascript.png"
 import reactImage from "../assets/react.png"
 import ruby from '../assets/ruby.png'
-import rails from '../assets/rails.png'
 import css from "../assets/css.png"
 import tailwind from "../assets/tailwind.png"
 import mysql from "../assets/mysql.png"
 import github from "../assets/github.png"
 import postgresql from '../assets/postgresql.png'
+import node from '../assets/node.png'
 
 const Experience = () => {
     const techs = [
@@ -26,14 +26,14 @@ const Experience = () => {
         },
         {
             id:3,
-            src: ruby,
-            title:'Ruby',
-            style: 'shadow-red-500'
+            src: node,
+            title:'Node',
+            style: 'shadow-green-500'
         },
         {
             id:4,
-            src: rails,
-            title:'Rails',
+            src: ruby,
+            title:'Ruby',
             style: 'shadow-red-500'
         },
         {
