@@ -3,26 +3,26 @@ import React from 'react'
 import javascript from "../assets/javascript.png"
 import reactImage from "../assets/react.png"
 import ruby from '../assets/ruby.png'
-import css from "../assets/css.png"
-import tailwind from "../assets/tailwind.png"
+import aws from "../assets/aws.png"
+import mongo from "../assets/mongoDB.png"
 import mysql from "../assets/mysql.png"
-import github from "../assets/github.png"
+import github from "../assets/git.png"
 import postgresql from '../assets/postgresql.png'
 import node from '../assets/node.png'
 
 const Experience = () => {
     const techs = [
         {
-            id:1,
-            src: javascript,
-            title:'Javascript',
-            style: 'shadow-yellow-500'
-        },
-        {
             id:2,
             src: reactImage,
             title:'React',
             style: 'shadow-blue-500'
+        },
+        {
+            id:1,
+            src: javascript,
+            title:'Javascript',
+            style: 'shadow-yellow-500'
         },
         {
             id:3,
@@ -37,16 +37,10 @@ const Experience = () => {
             style: 'shadow-red-500'
         },
         {
-            id:5,
-            src: css,
-            title:'CSS',
-            style: 'shadow-blue-500'
-        },
-        {
-            id:6,
-            src: tailwind,
-            title:'Tailwind',
-            style: 'shadow-teal-500'
+            id:8,
+            src: postgresql,
+            title:'PostgreSQL',
+            style: 'shadow-blue-400'
         },
         {
             id:7,
@@ -55,16 +49,22 @@ const Experience = () => {
             style: 'shadow-orange-500'
         },
         {
-            id:8,
-            src: postgresql,
-            title:'PostgreSQL',
-            style: 'shadow-blue-400'
+            id:6,
+            src: mongo,
+            title:'MongoDB',
+            style: 'shadow-green-500'
+        },
+        {
+            id:5,
+            src: aws,
+            title:'AWS',
+            style: 'shadow-orange-400'
         },
         {
             id:9,
             src: github,
-            title:'Github',
-            style: 'shadow-gray-400'
+            title:'Git',
+            style: 'shadow-red-400'
         }
     ]
   return (

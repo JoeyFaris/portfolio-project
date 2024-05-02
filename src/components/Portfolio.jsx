@@ -4,7 +4,7 @@ import bigO from '../assets/bigO.png'
 import bcrypt from '../assets/bcrypt.png'
 import activeRecord from '../assets/activeRecord.png'
 import suiteMng from '../assets/suiteMng.png'
-import codewars from '../assets/codewars.png'
+import leetcode from '../assets/leetcode.png'
 
 const Portfolio = () => {
         const portfolios = [
@@ -25,8 +25,8 @@ const Portfolio = () => {
             },
             {
                 id: 3,
-                src: codewars,
-                name: "Code Wars Profile",
+                src: leetcode,
+                name: "LeetCode Profile",
                 code: 'https://github.com/JoeyFaris/Book-Reviews-Media'
             },
             {
@@ -94,7 +94,7 @@ const Portfolio = () => {
                         :
                         <>
                         <a 
-                        href='https://www.codewars.com/users/JoeyFaris'
+                        href='https://leetcode.com/u/joeyfaris/'
                         target="_blank" 
                         rel="noreferrer"
                         className='w-1/2 px-12 py-3 m-4 duration-200 hover:scale-105'>Profile</a>
