@@ -12,7 +12,7 @@ const About = () => {
             <p className='text-xl mt-10'>
            In my current role at Pycube, my primary focus revolves around the development of advanced solutions tailored specifically for the healthcare industry. This involves designing and implementing software that enable healthcare workers to effectively track and manage their diverse range of assets, ranging from medical equipment and facility resources, to invoice processing.</p>
                 <p className='text-xl mt-10'>
-I have proficiency in various languages and technologies, including: JavaScript, React, Redux, Toolkit, Node, Bootstrap, CSS (Tailwind, Material UI, & Bootstrap), Ruby, SQL, PostgreSQL Sinatra, REST APIs, Unit Teesting, Docker, JIRA, Figma, AWS (EC2, S3, Lambda), and pgAdmin.
+I have proficiency in various languages and technologies, including: JavaScript, React, Redux, Node, CSS (Tailwind, Material UI, & Bootstrap), Ruby, SQL, PostgreSQL, Sinatra, REST APIs, Unit Testing, Docker, JIRA, Figma, AWS (EC2, S3, Lambda), and pgAdmin.
                 </p>
                 <br />
 
