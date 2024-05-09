@@ -12,7 +12,7 @@ const Home = () => {
                    Software Engineer
                </h2>
                <p className='text-gray-500 py-4 '>
-                   Experienced software engineeer with over one year of hands-on development experience, proficient in a range of programming languages and technologies. Throughout my career, I've successfully executed numerous projects, overseeing the entire software engineering life cycle from inception through deployment. Continuously seeking to expand technical knowledge and skills to improve as a software engineer. 
+                   Experienced software engineeer with two years of hands-on development experience, proficient in a range of programming languages and technologies. Throughout my career, I've successfully executed numerous projects, overseeing the entire software engineering life cycle from inception through deployment. Continuously seeking to expand technical knowledge and skills to improve as a software engineer. 
                </p>
                <div>
                    <Link
